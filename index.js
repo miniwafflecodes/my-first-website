@@ -11,7 +11,7 @@ function countFunction() {
 }
 
 function headingFunction() {
-    document.getElementById("heading").innerHTML = "Katelyn's website";
+    document.getElementById("heading").innerHTML = "GAMING BLOG BY KATELYN JOY COX";
    
 }
 
